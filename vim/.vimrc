@@ -180,7 +180,7 @@ au FileType * hi StatusLine ctermfg=black ctermbg=NONE
 au FileType * hi StatusLineNC ctermfg=black ctermbg=NONE
 au FileType * hi Normal ctermbg=NONE
 au FileType * hi Special ctermfg=cyan
-au FileType * hi LineNr ctermfg=black ctermbg=NONE
+au FileType * hi LineNr ctermfg=blue ctermbg=NONE
 au FileType * hi SpecialKey ctermfg=black ctermbg=NONE
 au FileType * hi ModeMsg ctermfg=black cterm=NONE ctermbg=NONE
 au FileType * hi MoreMsg ctermfg=black ctermbg=NONE
