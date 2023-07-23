@@ -159,7 +159,7 @@ hi StatusLine ctermfg=black ctermbg=NONE
 hi StatusLineNC ctermfg=black ctermbg=NONE
 hi Normal ctermbg=NONE
 hi Special ctermfg=cyan
-hi LineNr ctermfg=black ctermbg=NONE
+hi LineNr ctermfg=cyan ctermbg=NONE
 hi SpecialKey ctermfg=black ctermbg=NONE
 hi ModeMsg ctermfg=black cterm=NONE ctermbg=NONE
 hi MoreMsg ctermfg=black ctermbg=NONE
