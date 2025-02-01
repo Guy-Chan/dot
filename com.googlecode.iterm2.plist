@@ -239,7 +239,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>/opt/homebrew/bin/tmux new -s utas</string>
+			<string>/opt/homebrew/bin/tmux a -t utas || /opt/homebrew/bin/tmux new -s utas</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
